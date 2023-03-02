@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am not in the bad phase, i am just in phase befor comeback
+=======
+I am not in the good phase, iam just in phase after comeback
+>>>>>>> alien-plot
